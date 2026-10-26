@@ -1,0 +1,18 @@
+.app {
+  min-height: 100vh;
+  padding: 24px 16px;
+  background: #f3f6fc;
+  box-sizing: border-box;
+}
+
+.app-title {
+  text-align: center;
+  color: #1d4ed8;
+  font-size: 32px;
+}
+
+.app-subtitle {
+  text-align: center;
+  color: #64748b;
+  font-size: 14px;
+}
